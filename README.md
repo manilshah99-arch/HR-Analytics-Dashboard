@@ -1,6 +1,3 @@
-
-create a general readme for HR Analytics Dashboard
-
 HR Analytics Dashboard
 Overview
 The HR Analytics Dashboard is an interactive business intelligence solution designed to analyze workforce data and provide insights into employee demographics, attrition trends, job satisfaction, and overall organizational performance. The dashboard helps HR professionals and management make data-driven decisions to improve employee retention, workforce planning, and employee engagement.
